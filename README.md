@@ -1,1 +1,1 @@
-# social_distancing_via_camera
+# social_distancing_via_mobile_camera
